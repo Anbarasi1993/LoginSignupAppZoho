@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LoginSignupApp</string>
+
+    <string name="Login_Email_Error">Please enter valid Email Address.</string>
+    <string name="Login_Password_Error">Please Enter Valid Password.</string>
+
+    <string name="Register_Email_Error">Please enter valid Email Address.</string>
+    <string name="Register_Password_Error">Please enter valid Password.Your Password Must contain atleast one Uppercase,one Number,one Special Characters and Minimum 6 Digits.</string>
+    <string name="Register_Name_Error">Please enter valid Name.</string>
+    <string name="Register_contact_Number_Error">Please enter valid Contact Number.</string>
+    <string name="title_activity_main">MainActivity</string>
+
+</resources>
